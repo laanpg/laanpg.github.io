@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laanpg.github.io/sitemap/sitemap.Vbi.gz
