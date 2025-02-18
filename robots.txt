@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laanpg.csgad.com/cAT/sitemap.xml.gz
